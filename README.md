@@ -1,3 +1,4 @@
 # audio_fft
 audio_fft.pdeと同じ階層のaudio.mp3を再生しながらfft変換するやつ
 audio.mp3を追加して起動してください
+もともと入っているaudio.mp3は高周波でうるさいです
